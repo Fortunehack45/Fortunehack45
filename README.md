@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111111,1a1a1a,D9A441&height=220&section=header&text=Fortune%20Adebayo%20Esho&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20%26%20Android%20Engineer%20%7C%20DevOps&descFontSize=18&descAlignY=62&descColor=D9A441" width="100%" alt="Fortune Adebayo Header" />
+  <img src="https://raw.githubusercontent.com/Fortunehack45/Fortunehack45/main/banner.png" width="100%" alt="Fortune Adebayo Esho" />
 
   <br/>
 
