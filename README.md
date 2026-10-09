@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111111,1a1a1a,D9A441&height=220&section=header&text=Fortune%20Adebayo%20Esho&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20DevOps%20%26%20AI%20Engineer%20%7C%20Systems%20Architect&descFontSize=18&descAlignY=62&descColor=D9A441" width="100%" alt="Fortune Adebayo Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=111111,1a1a1a,D9A441&height=220&section=header&text=Fortune%20Adebayo%20Esho&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Systems%20%26%20Android%20Engineer%20%7C%20DevOps&descFontSize=18&descAlignY=62&descColor=D9A441" width="100%" alt="Fortune Adebayo Header" />
 
   <br/>
 
@@ -12,7 +12,7 @@
   </p>
 
   <p align="center">
-    <strong>Founder & Lead Architect at <a href="https://fortuneadebayo.space/">F&A</a></strong> • <em>"Bridging the gap between robust system backends and high-performance frontend experiences."</em>
+    <strong>Founder & Lead Architect at <a href="https://fortuneadebayo.space/">F&A</a></strong> • <em>"Bridging the gap between robust system backends, compiler engines, and beautiful user experiences."</em>
   </p>
 
   <p align="center">
@@ -25,14 +25,15 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full-Stack Developer, DevOps & AI Engineer, and Systems Architect** passionate about engineering resilient, scalable, and beautifully designed digital solutions. From architecting decentralized web3 protocols and autonomous AI agents to designing fluid, dark-mode user interfaces and automated cloud pipelines, I build systems engineered for performance and precision.
+I am a **Full-Stack Developer, Systems & Android Engineer, and DevOps Specialist** passionate about creating high-performance software, custom programming language runtimes, and polished mobile applications. Whether designing native Android engines with fluid aesthetics, architecting modular compiler pipelines, or deploying resilient cloud architectures, I engineer systems built for speed and precision.
 
-- 🚀 **Currently Building:** [WorkBase](https://github.com/Fortunehack45) (Decentralized freelance protocol on Base) & [Northveil-MCP](https://github.com/Fortunehack45/Northveil-MCP) (Model Context Protocol tooling for AI).
-- 🧠 **AI & Autonomous Systems:** Contextual Retrieval / RAG, Agentic task loops, and MCP server integrations.
-- ⛓️ **Web3 & Distributed Systems:** Solidity smart contracts, Base blockchain, ERC-1155 Soulbound NFTs, ZK income verification (Reclaim Protocol), and DAG / GhostDAG consensus research.
+- 🚀 **Featured Work:**
+  - 🎵 **[Vibra Music](https://github.com/Fortunehack45/Vibra_Music)** — An aesthetic Hi-Res Android music player & YouTube Music client.
+  - ⚡ **[Ade (`ade.ade`)](https://github.com/Fortunehack45/ade.ade)** — An independent programming language and modular language-building platform.
+  - 📍 **[Nowhere](https://github.com/Fortunehack45/Nowhere)** — A precision GPS route simulator and kinematics navigation engine.
 - 🎓 **Alumni:** Federal University of Technology, Akure (FUTA).
 - 📍 **Location:** Akure, Ondo State, Nigeria.
-- 💬 **Ask me about:** TypeScript/React, Python, Go, Rust, System Architecture, Web3 Protocols, or AI Workflows.
+- 💬 **Ask me about:** Android / Kotlin, Compiler Design & ASTs, Python, TypeScript, React, System Architecture, or Linux.
 
 ---
 
@@ -42,48 +43,36 @@ I am a **Full-Stack Developer, DevOps & AI Engineer, and Systems Architect** pas
 
 #### Languages
 <p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-DEC27B?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### Frontend & Mobile
+#### Mobile & Frontend
 <p>
+  <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React%20Native%20%2F%20Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=material-design&logoColor=white" alt="Material Design" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
-#### Backend, Databases & Cloud Infrastructure
+#### Systems, Compilers & Backend
 <p>
+  <img src="https://img.shields.io/badge/Compiler_Design-Pratt_Parser-FF6F00?style=flat-square&logo=codeforces&logoColor=white" alt="Compiler Design" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Firebase%20%2F%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Room_Database-4285F4?style=flat-square&logo=sqlite&logoColor=white" alt="Room" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-</p>
-
-#### Web3, AI & Developer Tooling
-<p>
-  <img src="https://img.shields.io/badge/Base_Network-0052FF?style=flat-square&logo=coinbase&logoColor=white" alt="Base" />
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" alt="Hardhat" />
-  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
-  <img src="https://img.shields.io/badge/Agentic_AI-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
@@ -91,60 +80,41 @@ I am a **Full-Stack Developer, DevOps & AI Engineer, and Systems Architect** pas
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Fortunehack45">WorkBase</a></h3>
-      <p align="center"><strong>Decentralized Freelance & Investment Protocol</strong></p>
-      <p>Decentralized protocol on Base blockchain featuring ERC-1155 Soulbound Skill NFTs, USDC-based escrow system, peer-attestation reputation mechanism, and ZK-based income verification via Reclaim Protocol.</p>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Fortunehack45/Vibra_Music">Vibra Music</a></h3>
+      <p align="center"><strong>Aesthetic Music Player & YouTube Music Client</strong></p>
+      <p>A native Android audio client featuring Hi-Res lossless FLAC/ALAC playback, gapless transitions, automix DJ transitions, offline downloads with embedded tags, animated album artwork canvas, and Telegram-style frosted-glass Material 3 UI.</p>
       <p align="center">
-        <code>Solidity</code> • <code>Next.js 14</code> • <code>React Native</code> • <code>Node.js</code> • <code>Prisma</code>
+        <a href="https://github.com/Fortunehack45/Vibra_Music_Releases"><img src="https://img.shields.io/badge/Releases-APK%20Downloads-D9A441?style=flat-square" alt="Download APK" /></a>
+      </p>
+      <p align="center">
+        <code>Kotlin</code> • <code>Android Media3</code> • <code>Material 3</code> • <code>Haze Glass</code>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Fortunehack45/Northveil-MCP">Northveil MCP & SDK</a></h3>
-      <p align="center"><strong>Model Context Protocol & Autonomous Agent Tools</strong></p>
-      <p>Developer toolkit and MCP servers providing structured contextual interfaces and integrations for AI coding agents and autonomous workflows.</p>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Fortunehack45/ade.ade">ade.ade</a></h3>
+      <p align="center"><strong>Programming Language & Compiler Platform</strong></p>
+      <p>An independent programming language and modular language-building platform. Designed with a recursive-descent Pratt parser, clean syntax, human-centric error diagnostics, and a decoupled compiler pipeline for building custom DSLs and scripting runtimes.</p>
       <p align="center">
-        <code>TypeScript</code> • <code>Node.js</code> • <code>MCP</code> • <code>Agent Architecture</code>
+        <a href="https://github.com/Fortunehack45/ade.ade"><img src="https://img.shields.io/badge/Architecture-Lexer%20%7C%20Parser%20%7C%20AST-blue?style=flat-square" alt="Compiler Architecture" /></a>
+      </p>
+      <p align="center">
+        <code>Python 3.12+</code> • <code>Pratt Parser</code> • <code>AST</code> • <code>Language Tooling</code>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Fortunehack45/fortune-ide">fortune-ide</a></h3>
-      <p align="center"><strong>Modern Browser-Based IDE</strong></p>
-      <p>Custom developer environment designed with rapid code execution, modular editor panels, and real-time syntax evaluation.</p>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/Fortunehack45/Nowhere">Nowhere</a></h3>
+      <p align="center"><strong>Precision GPS & Route Simulator Engine</strong></p>
+      <p>An Android mock-location engine and route simulation suite with a luxury Red & White aesthetic. Features interactive OpenStreetMap waypoint plotting, realistic kinematics acceleration physics, military-grade radar joystick overlay, Room DB search history, and GPX import.</p>
       <p align="center">
-        <code>TypeScript</code> • <code>React</code> • <code>System Design</code>
+        <a href="https://github.com/Fortunehack45/Nowhere"><img src="https://img.shields.io/badge/Simulation-Kinematics%20%26%20HUD-E41B1B?style=flat-square" alt="Kinematics Engine" /></a>
       </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://fortuneadebayo.space/">StudyOS (FocusIQ)</a></h3>
-      <p align="center"><strong>Source-Based AI Academic Companion</strong></p>
-      <p>AI-powered knowledge synthesis platform featuring low-latency document ingestion, conceptual mind-mapping, and an OS-like viewport experience.</p>
       <p align="center">
-        <code>React</code> • <code>Node.js</code> • <code>Contextual Retrieval</code> • <code>Tailwind CSS</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://fortuneadebayo.space/">ProGress AI</a></h3>
-      <p align="center"><strong>Autonomous Agentic Chatbot & Workspace</strong></p>
-      <p>Combines structured conversational task loops with multi-device state persistence powered by Cloud Firestore and minimal reactive UI design.</p>
-      <p align="center">
-        <code>JavaScript</code> • <code>Node.js</code> • <code>Cloud Firestore</code> • <code>Real-time Sync</code>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/Fortunehack45/Stream-X-Bot">Bots & Automation Suite</a></h3>
-      <p align="center"><strong>High-Throughput Automation Engines</strong></p>
-      <p>Production bots for media streaming, multi-platform Discord servers, and WhatsApp automation (<a href="https://github.com/Fortunehack45/My-Whatsapp-Bot">My-Whatsapp-Bot</a> & Baileys).</p>
-      <p align="center">
-        <code>Python</code> • <code>JavaScript</code> • <code>Async Engines</code> • <code>WebSockets</code>
+        <code>Kotlin</code> • <code>OpenStreetMap</code> • <code>Room DB</code> • <code>Kinematics</code>
       </p>
     </td>
   </tr>
@@ -165,9 +135,9 @@ I am a **Full-Stack Developer, DevOps & AI Engineer, and Systems Architect** pas
 
 ---
 
-### 🌐 Let's Build Together
+### 🌐 Let's Connect
 
-Whether you are looking to collaborate on high-throughput backend architecture, build decentralized Web3 applications, integrate autonomous AI agents, or construct a refined boutique web experience:
+Whether you want to collaborate on native Android applications, compiler toolchains, or high-performance systems:
 
 - 💻 **Portfolio:** [fortuneadebayo.space](https://fortuneadebayo.space/)
 - 𝕏 **Twitter / X:** [@OnNerd_eth](https://x.com/OnNerd_eth)
