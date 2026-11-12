@@ -84,37 +84,44 @@ I am a **Full-Stack Developer, Systems & Android Engineer, and DevOps Specialist
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center"><a href="https://github.com/Fortunehack45/Vibra_Music">Vibra Music</a></h3>
-      <p align="center"><strong>Aesthetic Music Player & YouTube Music Client</strong></p>
-      <p>A native Android audio client featuring Hi-Res lossless FLAC/ALAC playback, gapless transitions, automix DJ transitions, offline downloads with embedded tags, animated album artwork canvas, and Telegram-style frosted-glass Material 3 UI.</p>
-      <p align="center">
+    <td>
+      <h3>🎵 <a href="https://github.com/Fortunehack45/Vibra_Music">Vibra Music</a></h3>
+      <p><strong>Aesthetic Hi-Res Music Player & YouTube Music Client for Android</strong></p>
+      <p>A native Android audio client featuring Hi-Res lossless FLAC/ALAC playback, gapless transitions, DJ automix, offline downloads with embedded metadata, animated album canvas, and a Telegram-style frosted-glass Material 3 interface.</p>
+      <p>
         <a href="https://github.com/Fortunehack45/Vibra_Music_Releases"><img src="https://img.shields.io/badge/Releases-APK%20Downloads-D9A441?style=flat-square" alt="Download APK" /></a>
-      </p>
-      <p align="center">
-        <code>Kotlin</code> • <code>Android Media3</code> • <code>Material 3</code> • <code>Haze Glass</code>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Android%20Media3-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Media3" />
+        <img src="https://img.shields.io/badge/Material%203-757575?style=flat-square&logo=material-design&logoColor=white" alt="Material 3" />
+        <img src="https://img.shields.io/badge/Haze%20Glass-181717?style=flat-square" alt="Haze Glass" />
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center"><a href="https://github.com/Fortunehack45/ade.ade">ade.ade</a></h3>
-      <p align="center"><strong>Programming Language & Compiler Platform</strong></p>
-      <p>An independent programming language and modular language-building platform. Designed with a recursive-descent Pratt parser, clean syntax, human-centric error diagnostics, and a decoupled compiler pipeline for building custom DSLs and scripting runtimes.</p>
-      <p align="center">
+  </tr>
+  <tr>
+    <td>
+      <h3>⚡ <a href="https://github.com/Fortunehack45/ade.ade">ade.ade</a></h3>
+      <p><strong>Independent Programming Language & Modular Compiler Platform</strong></p>
+      <p>A modern programming language and compiler framework designed for building DSLs, script engines, and custom language runtimes. Features a recursive-descent Pratt parser, clean block syntax, human-centric error diagnostics, and a decoupled compiler pipeline.</p>
+      <p>
         <a href="https://github.com/Fortunehack45/ade.ade"><img src="https://img.shields.io/badge/Architecture-Lexer%20%7C%20Parser%20%7C%20AST-blue?style=flat-square" alt="Compiler Architecture" /></a>
-      </p>
-      <p align="center">
-        <code>Python 3.12+</code> • <code>Pratt Parser</code> • <code>AST</code> • <code>Language Tooling</code>
+        <img src="https://img.shields.io/badge/Python%203.12+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.12+" />
+        <img src="https://img.shields.io/badge/Pratt%20Parser-FF6F00?style=flat-square" alt="Pratt Parser" />
+        <img src="https://img.shields.io/badge/AST%20Runtime-4B0082?style=flat-square" alt="AST Runtime" />
+        <img src="https://img.shields.io/badge/Language%20Tooling-333333?style=flat-square" alt="Language Tooling" />
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center"><a href="https://github.com/Fortunehack45/Nowhere">Nowhere</a></h3>
-      <p align="center"><strong>Precision GPS & Route Simulator Engine</strong></p>
-      <p>An Android mock-location engine and route simulation suite with a luxury Red & White aesthetic. Features interactive OpenStreetMap waypoint plotting, realistic kinematics acceleration physics, military-grade radar joystick overlay, Room DB search history, and GPX import.</p>
-      <p align="center">
+  </tr>
+  <tr>
+    <td>
+      <h3>📍 <a href="https://github.com/Fortunehack45/Nowhere">Nowhere</a></h3>
+      <p><strong>Precision Android GPS & Route Simulator Engine</strong></p>
+      <p>An Android mock-location engine and route simulation suite with a luxury Red & White aesthetic. Features interactive OpenStreetMap waypoint routing, realistic kinematics acceleration physics, military-grade radar joystick HUD, Room DB search history, and GPX import.</p>
+      <p>
         <a href="https://github.com/Fortunehack45/Nowhere"><img src="https://img.shields.io/badge/Simulation-Kinematics%20%26%20HUD-E41B1B?style=flat-square" alt="Kinematics Engine" /></a>
-      </p>
-      <p align="center">
-        <code>Kotlin</code> • <code>OpenStreetMap</code> • <code>Room DB</code> • <code>Kinematics</code>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OpenStreetMap" />
+        <img src="https://img.shields.io/badge/Room%20DB-4285F4?style=flat-square&logo=sqlite&logoColor=white" alt="Room DB" />
+        <img src="https://img.shields.io/badge/Kinematics-E41B1B?style=flat-square" alt="Kinematics" />
       </p>
     </td>
   </tr>
@@ -125,12 +132,11 @@ I am a **Full-Stack Developer, Systems & Android Engineer, and DevOps Specialist
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fortunehack45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&icon_color=D9A441&text_color=c9d1d9" alt="Fortunehack45's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fortunehack45&theme=tokyonight&hide_border=true&background=0d1117&ring=D9A441&fire=D9A441&currStreakLabel=D9A441" alt="Fortunehack45's streak" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fortunehack45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fortunehack45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&icon_color=D9A441&text_color=c9d1d9" alt="Fortunehack45's GitHub stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Fortunehack45&theme=tokyonight&hide_border=true&background=0d1117&ring=D9A441&fire=D9A441&currStreakLabel=D9A441" alt="Fortunehack45's streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fortunehack45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 ---
