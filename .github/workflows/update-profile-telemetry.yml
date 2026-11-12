@@ -12,6 +12,10 @@ on:
       - 'scripts/**'
       - '.github/workflows/**'
 
+concurrency:
+  group: telemetry-update
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -44,6 +48,7 @@ jobs:
           git add github-stats.svg github-stats.png README.md
           if ! git diff --staged --quiet; then
             git commit -m "chore(telemetry): auto-update verified GitHub stats [skip ci]"
+            git pull --rebase origin main
             git push origin main
           else
             echo "No telemetry changes detected. Clean state."
