@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Fortunehack45/Fortunehack45/main/banner.png" width="100%" alt="Fortune Adebayo Esho" />
+  <img src="banner.png" width="100%" alt="Fortune Adebayo Esho" />
 
   <br/><br/>
 
