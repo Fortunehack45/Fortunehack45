@@ -12,7 +12,7 @@
   </p>
 
   <p align="center">
-    <strong>Founder & Lead Architect at <a href="https://fortuneadebayo.space/">F&A</a></strong> • <em>"Bridging the gap between robust system backends, compiler engines, and beautiful user experiences."</em>
+    <strong>Founder & Lead Architect at <a href="https://fortuneadebayo.space/">F&A</a></strong> • <em>"Architecting autonomous AI editors, compiler toolchains & fluid high-performance systems."</em>
   </p>
 
   <p align="center">
@@ -25,15 +25,16 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full-Stack Developer, Systems & Android Engineer, and DevOps Specialist** passionate about creating high-performance software, custom programming language runtimes, and polished mobile applications. Whether designing native Android engines with fluid aesthetics, architecting modular compiler pipelines, or deploying resilient cloud architectures, I engineer systems built for speed and precision.
+I am a **Systems & AI Engineer, Full-Stack Developer, and DevOps Specialist** passionate about creating high-performance native desktop tools, autonomous AI agents, programming language compilers, and polished Android applications. Whether engineering GPU-accelerated code editors in Rust, architecting modular compiler runtimes, or designing fluid mobile experiences, I build software engineered for speed, autonomy, and craftsmanship.
 
-- 🚀 **Featured Work:**
-  - 🎵 **[Vibra Music](https://github.com/Fortunehack45/Vibra_Music)** — An aesthetic Hi-Res Android music player & YouTube Music client.
-  - ⚡ **[Ade (`ade.ade`)](https://github.com/Fortunehack45/ade.ade)** — An independent programming language and modular language-building platform.
-  - 📍 **[Nowhere](https://github.com/Fortunehack45/Nowhere)** — A precision GPS route simulator and kinematics navigation engine.
+- 🚀 **Flagship Works:**
+  - ⚡ **[Recode](https://github.com/Fortunehack45/Recode)** — Autonomous AI code editor engineered in pure Rust with GPUI (<50ms launch, 120 FPS, BYOK multi-model orchestration, MCP & terminal CLI).
+  - 🎵 **[Vibra Music](https://github.com/Fortunehack45/Vibra_Music)** — Aesthetic Hi-Res Android audio player & YouTube Music client with gapless playback & dynamic canvas art.
+  - 🔧 **[Ade (`ade.ade`)](https://github.com/Fortunehack45/ade.ade)** — An independent programming language and modular language-building platform.
+  - 📍 **[Nowhere](https://github.com/Fortunehack45/Nowhere)** — Precision native Android GPS mock-location engine & route simulation suite.
 - 🎓 **Alumni:** Federal University of Technology, Akure (FUTA).
 - 📍 **Location:** Akure, Ondo State, Nigeria.
-- 💬 **Ask me about:** Android / Kotlin, Compiler Design & ASTs, Python, TypeScript, React, System Architecture, or Linux.
+- 💬 **Ask me about:** Rust / GPUI, Autonomous AI Agents, Model Context Protocol (MCP), Compiler Pipelines, Android / Kotlin, or Systems Architecture.
 
 ---
 
@@ -43,37 +44,38 @@ I am a **Full-Stack Developer, Systems & Android Engineer, and DevOps Specialist
 
 #### Languages
 <p>
+  <img src="https://img.shields.io/badge/Rust-DEC27B?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python%203.12+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Rust-DEC27B?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### Mobile & Frontend
+#### Systems, AI & Compiler Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/GPUI%20%2F%20Vulkan-orange?style=flat-square" alt="GPUI" />
+  <img src="https://img.shields.io/badge/Autonomous%20AI%20Agents-purple?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-blueviolet?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Pratt%20Parser%20%26%20AST-FF6F00?style=flat-square" alt="Compiler Design" />
+  <img src="https://img.shields.io/badge/Multi--Model%20BYOK-4B0082?style=flat-square" alt="BYOK" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+#### Mobile, Frontend & Backend
 <p>
   <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=material-design&logoColor=white" alt="Material Design" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
-#### Systems, Compilers & Backend
-<p>
-  <img src="https://img.shields.io/badge/Compiler_Design-Pratt_Parser-FF6F00?style=flat-square&logo=codeforces&logoColor=white" alt="Compiler Design" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Room_Database-4285F4?style=flat-square&logo=sqlite&logoColor=white" alt="Room" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 </div>
@@ -83,6 +85,21 @@ I am a **Full-Stack Developer, Systems & Android Engineer, and DevOps Specialist
 ### 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td>
+      <h3>⚡ <a href="https://github.com/Fortunehack45/Recode">Recode</a></h3>
+      <p><strong>The Autonomous AI Code Editor. Built for Speed, Multi-Model Precision & Native GPU Performance.</strong></p>
+      <p>An open-source, native GPU-accelerated code editor engineered in pure Rust with GPUI. Combines instantaneous cold boot (&lt;50ms) and silky 120 FPS rendering with a deeply integrated autonomous AI coding agent, multi-file atomic diff engine, full Model Context Protocol (MCP) ecosystem, Bring Your Own Key (BYOK) privacy, terminal CLI (<code>recode</code>), and <code>@recode/sdk</code>.</p>
+      <p>
+        <a href="https://github.com/Fortunehack45/Recode/releases"><img src="https://img.shields.io/badge/Releases-Installer%20Downloads-D9A441?style=flat-square" alt="Download Recode" /></a>
+        <img src="https://img.shields.io/badge/Rust-DEC27B?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
+        <img src="https://img.shields.io/badge/GPUI%20%2F%20Vulkan-orange?style=flat-square" alt="GPUI" />
+        <img src="https://img.shields.io/badge/Autonomous%20AI-purple?style=flat-square&logo=openai&logoColor=white" alt="AI Agent" />
+        <img src="https://img.shields.io/badge/MCP%20Ready-blueviolet?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+        <img src="https://img.shields.io/badge/Multi--Model%20BYOK-4B0082?style=flat-square" alt="BYOK" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td>
       <h3>🎵 <a href="https://github.com/Fortunehack45/Vibra_Music">Vibra Music</a></h3>
@@ -132,18 +149,39 @@ I am a **Full-Stack Developer, Systems & Android Engineer, and DevOps Specialist
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fortunehack45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&icon_color=D9A441&text_color=c9d1d9" alt="Fortunehack45's GitHub stats" />
+
+  <!-- Core GitHub Statistics & Streak Cards -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fortunehack45&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&icon_color=D9A441&text_color=c9d1d9" alt="Fortunehack45's GitHub stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Fortunehack45&theme=tokyonight&hide_border=true&background=0d1117&ring=D9A441&fire=D9A441&currStreakLabel=D9A441" alt="Fortunehack45's streak" />
   <br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fortunehack45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&text_color=c9d1d9" alt="Top Languages" />
+
+  <!-- Detailed Profile Contributions & Stars Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fortunehack45&theme=tokyonight" alt="GitHub Profile Summary" />
+  <br/><br/>
+
+  <!-- Language Breakdown & Distribution Charts -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fortunehack45&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&text_color=c9d1d9" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fortunehack45&theme=tokyonight" alt="Repositories per Language" />
+  <br/><br/>
+
+  <!-- Pinned Flagship Repository Highlights -->
+  <a href="https://github.com/Fortunehack45/Recode">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Fortunehack45&repo=Recode&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&icon_color=D9A441&text_color=c9d1d9" alt="Recode Repo Card" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Fortunehack45/Vibra_Music">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Fortunehack45&repo=Vibra_Music&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&icon_color=D9A441&text_color=c9d1d9" alt="Vibra Music Repo Card" />
+  </a>
+
 </div>
 
 ---
 
 ### 🌐 Let's Connect
 
-Whether you want to collaborate on native Android applications, compiler toolchains, or high-performance systems:
+Whether you want to collaborate on native GPU tools, autonomous AI agents, compiler toolchains, or high-performance systems:
 
 - 💻 **Portfolio:** [fortuneadebayo.space](https://fortuneadebayo.space/)
 - 𝕏 **Twitter / X:** [@OnNerd_eth](https://x.com/OnNerd_eth)
