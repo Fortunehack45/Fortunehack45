@@ -259,8 +259,10 @@ I am a **Systems & AI Engineer, Full-Stack Developer, and DevOps Specialist** de
 
 <div align="center">
 
-  <!-- Core GitHub Statistics & Streak Cards -->
-  <img src="github-stats.png" alt="Fortunehack45's GitHub stats" />
+  <!-- Live Real-Time Dynamic GitHub Statistics (Direct from GitHub API) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fortunehack45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&icon_color=D9A441&text_color=c9d1d9&custom_title=2026%20GitHub%20Statistics" alt="2026 GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fortunehack45&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D9A441&icon_color=D9A441&text_color=c9d1d9&custom_title=All-Time%20GitHub%20Statistics" alt="All-Time GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Fortunehack45&theme=tokyonight&hide_border=true&background=0d1117&ring=D9A441&fire=D9A441&currStreakLabel=D9A441" alt="Fortunehack45's streak" />
   <br/><br/>
